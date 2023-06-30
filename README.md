@@ -1,0 +1,1 @@
+# HW10_Some_tasks_about_object
